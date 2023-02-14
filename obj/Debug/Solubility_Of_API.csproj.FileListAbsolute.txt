@@ -1,0 +1,10 @@
+D:\Дипломная работа\Solubility_Of_API\bin\Debug\Solubility_Of_API.exe.config
+D:\Дипломная работа\Solubility_Of_API\bin\Debug\Solubility_Of_API.exe
+D:\Дипломная работа\Solubility_Of_API\bin\Debug\Solubility_Of_API.pdb
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.csproj.AssemblyReference.cache
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.Form1.resources
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.Properties.Resources.resources
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.csproj.GenerateResource.cache
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.csproj.CoreCompileInputs.cache
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.exe
+D:\Дипломная работа\Solubility_Of_API\obj\Debug\Solubility_Of_API.pdb
